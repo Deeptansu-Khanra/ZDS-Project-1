@@ -1,6 +1,21 @@
 * {box-sizing: border-box}
+
+/*intro
+.intro {
+  width: 100%;
+}*/
+
+.zds-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 /* Full-width input fields */
-  input[type=text], input[type=password] {
+input[type=text], input[type=password] {
   width: 100%;
   padding: 15px;
   margin: 5px 0 22px 0;
